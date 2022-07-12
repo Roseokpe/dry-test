@@ -1,15 +1,18 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# To Do list: interactive list
 
-> Description the project.
+In this project, I add some functionality to this application to make interactive. The user will also be able to mark task completion by selecting the corresponding checkbox (or undo it by unchecking the checkbox). The updated tasks list will be stored in local storage.
 
-
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
+## Built with 
+    Major Languages
+    - Html and CSS
+    - Javascript
+    
+    Major Technologies
+    - VS code as IDE
+    - Git and Github
+    - Linters
 
 ## Live Demo (if available)
 
@@ -18,55 +21,37 @@
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
+To get a local copy up and running follow these simple example steps. For SSH:`git@github.com:roseokp/To-Do-List.git`For https:`https://github.com/roseokpe/To-Do-List.git`
 
 ### Install
+Run `npm install` after cloning the repo.
 
 ### Usage
+Run `npm start` for development. Run `npm run build` for production. 
 
 ### Run tests
-
-### Deployment
-
-
+- Run `npx eslint .` for JS check
+- Run `npx eslint . --fix` to fix JS errors if found
+- Run `npx stylelint "**/*.{css,scss}"` for CSS check
+- Run `npx stylelint "**/*.{css,scss}" --fix` to fix CSS errors if found.
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@roseokpe](https://github.com/roseokpe)
+- Twitter: [@roseokpe](https://twitter.com/roseokpe)
+- LinkedIn: [LinkedIn]()
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
