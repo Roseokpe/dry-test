@@ -1,5 +1,5 @@
 {
-  "name": "to-do-list",
+  "name": "dry-test",
   "version": "1.0.0",
   "description": "In this project, this simple To-do-list web App. was built using webpack and served by a webpack dev server.",
   "main": "index.js",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Roseokpe/to-do-list.git"
+    "url": "git+https://github.com/Roseokpe/dry-test.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Roseokpe/to-do-list/issues"
+    "url": "https://github.com/Roseokpe/dry-test/issues"
   },
-  "homepage": "https://github.com/Roseokpe/to-do-list#readme",
+  "homepage": "https://github.com/Roseokpe/dry-test#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.7.1",

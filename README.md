@@ -14,14 +14,13 @@ In this project, I add some functionality to this application to make interactiv
     - Git and Github
     - Linters
 
-## Live Demo (if available)
-
+## Live Demo 
 [Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps. For SSH:`git@github.com:roseokp/To-Do-List.git`For https:`https://github.com/roseokpe/To-Do-List.git`
+To get a local copy up and running follow these simple example steps. For SSH:`git@github.com:roseokp/dry-test.git`For https:`https://github.com/roseokpe/dry-test.git`
 
 ### Install
 Run `npm install` after cloning the repo.
